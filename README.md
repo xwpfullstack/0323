@@ -11,5 +11,5 @@ python project
 ## cpp
 你的期望薪资是多少
 
-## 合作伙伴
+## collaborator
 我已成为合作伙伴，并成功修改了readme ^_^
